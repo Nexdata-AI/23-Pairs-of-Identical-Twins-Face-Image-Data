@@ -1,8 +1,10 @@
 # 23-Pairs-of-Identical-Twins-Face-Image-Data
 
-https://www.datatang.ai/datasets/1007
+
 ## Description
 23 Pairs of Identical Twins Face Image Data. The collecting scenes includes indoor and outdoor scenes. The data diversity includes multiple face angles, multiple face postures, close-up of eyes, multiple light conditions and multiple age groups. This dataset can be used for tasks such as twins' face recognition.
+
+For more details, please refer to the link: https://bit.ly/3C8DHBn
 
 ## Data size
 23 pairs, each person in a pair of identical twins has 40 images (20 indoor images, 20 outdoor images)
@@ -24,3 +26,6 @@ the iamge data format is .jpg
 
 ## Accuracy
 the accuracy of the face actions exceeds 97% ; the accuracy of labels exceeds 97%
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
