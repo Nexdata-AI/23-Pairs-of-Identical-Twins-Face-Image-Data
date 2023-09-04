@@ -4,7 +4,8 @@
 ## Description
 23 Pairs of Identical Twins Face Image Data. The collecting scenes includes indoor and outdoor scenes. The data diversity includes multiple face angles, multiple face postures, close-up of eyes, multiple light conditions and multiple age groups. This dataset can be used for tasks such as twins' face recognition.
 
-For more details, please refer to the link: https://bit.ly/3C8DHBn
+For more details, please refer to the link: https://www.nexdata.ai/datasets/1007?source=Github
+
 
 ## Data size
 23 pairs, each person in a pair of identical twins has 40 images (20 indoor images, 20 outdoor images)
