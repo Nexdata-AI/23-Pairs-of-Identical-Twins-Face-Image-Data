@@ -29,4 +29,4 @@ the iamge data format is .jpg
 the accuracy of the face actions exceeds 97% ; the accuracy of labels exceeds 97%
 
 # Licensing Information
-Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
+Commercial License
